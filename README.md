@@ -1,28 +1,16 @@
 <!-- Profile Header with GIF -->
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="600" />
-  <h1 align="center">Hi 👋, I'm Ashish Patnaik</h1>
+  <img height="190" src="https://i.giphy.com/6XX4V0O8a0xdS.webp" alt="Coding GIF" width="400" />
+  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ashish-patnaik&label=Profile%20views&color=0e75b6&style=flat" alt="ashish-patnaik" />
+</p>
+  <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height="40px" /> I'm Ashish Patnaik</h1>
   <h3 align="center">A Passionate Software Developer from India</h3>
 </div>
 
-<!-- Profile Views and Trophies -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashish-patnaik&label=Profile%20views&color=0e75b6&style=flat" alt="ashish-patnaik" />
-</p>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashish-patnaik&theme=onedark&row=1&column=6" alt="ashish-patnaik" /></a>
-</p>
-
-<!-- Twitter Badge -->
-<p align="center">
-  <a href="https://twitter.com/ashishpatnaik_" target="blank">
-    <img src="https://img.shields.io/twitter/follow/ashishpatnaik_?logo=twitter&style=for-the-badge" alt="ashishpatnaik_" />
-  </a>
-</p>
-
 <!-- About Me Section -->
 ### 🌟 About Me
-- 🌱 I’m currently learning **MERN Stack**.
+- 🌱 I’m currently learning **FullStack Development**.
 - 👯 I’m looking to collaborate on **Open Source Projects**.
 - 🤝 I’m looking for help with **Web Development**.
 - 📫 How to reach me: **ashishpatnaik2806@gmail.com**
@@ -35,6 +23,7 @@
   <a href="https://linkedin.com/in/ashish-patnaik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashish patnaik" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/ashish_patnaik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashish_patnaik" height="30" width="40" /></a>
 </p>
+
 
 <!-- Languages and Tools Section -->
 ### 🛠️ Languages and Tools
@@ -65,6 +54,21 @@
   </a> 
 </p>
 
+
+<!--  Trophies -->
+<h3 align="left">🔥 My Stats</h3>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashish-patnaik&theme=onedark&row=1&column=6" alt="ashish-patnaik" /></a>
+</p>
+
+<!-- Twitter Badge -->
+<p align="center">
+  <a href="https://twitter.com/ashishpatnaik_" target="blank">
+    <img src="https://img.shields.io/twitter/follow/ashishpatnaik_?logo=twitter&style=for-the-badge" alt="ashishpatnaik_" />
+  </a>
+</p>
+ 
+
 <!-- GitHub Stats Section -->
 ### 📊 GitHub Stats
 <p align="center">
@@ -73,5 +77,5 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashish-patnaik&theme=dark" alt="ashish-patnaik" />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ashish-patnaik&theme=dark" alt="ashish-patnaik" />
 </p>
