@@ -8,6 +8,9 @@
   <h3 align="center">A Passionate Software Developer from India</h3>
 </div>
 
+<img align="right" src="https://github.com/user-attachments/assets/2d168576-bb66-4854-b139-6abe244b0f13" alt="Description of GIF" width="500" height="300">
+
+
 <!-- About Me Section -->
 ### 🌟 About Me
 - 🌱 I’m currently learning **FullStack Development**.
@@ -15,6 +18,8 @@
 - 🤝 I’m looking for help with **Web Development**.
 - 📫 How to reach me: **ashishpatnaik2806@gmail.com**
 - ⚡ Fun fact: **I Talk Less**
+
+
 
 <!-- Connect With Me Section -->
 ### 📫 Connect with Me
