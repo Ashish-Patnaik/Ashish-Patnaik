@@ -8,7 +8,7 @@
   <h3 align="center">A Passionate Software Developer from India</h3>
 </div>
 
-<img align="right" src="https://github.com/user-attachments/assets/2d168576-bb66-4854-b139-6abe244b0f13" alt="Description of GIF" width="500" height="300">
+<img align="right" src="https://github.com/user-attachments/assets/2d168576-bb66-4854-b139-6abe244b0f13" alt="Description of GIF" width="400" height="250">
 
 
 <!-- About Me Section -->
