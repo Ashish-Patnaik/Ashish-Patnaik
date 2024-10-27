@@ -20,6 +20,21 @@
 - ⚡ Fun fact: **I Talk Less**
 
 
+  
+### 🪶 GSSOC(24) Badges:
+
+<div style='display:flex; align-items:center; gap: 5px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<div style='display:flex; gap: 10px;'>
+  <img src="https://gssoc.girlscript.tech/badges/postman.png?imwidth=96" width="100px" height="100px" />
+  <img src="https://gssoc.girlscript.tech/badges/1.png?imwidth=96" width="100px" height="100px" />
+  <img src="https://gssoc.girlscript.tech/badges/2.png?imwidth=96" width="100px" height="100px" />
+  <img src="https://gssoc.girlscript.tech/badges/3.png?imwidth=96" width="100px" height="100px" />
+  <img src="https://gssoc.girlscript.tech/badges/4.png?imwidth=96" width="100px" height="100px" />
+  <img src="https://gssoc.girlscript.tech/badges/5.png?imwidth=96" width="100px" height="100px" />
+</div>
+</div>
+
+
 
 <!-- Connect With Me Section -->
 ### 📫 Connect with Me
