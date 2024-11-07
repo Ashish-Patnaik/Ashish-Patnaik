@@ -20,7 +20,15 @@
 - ⚡ Fun fact: **I Talk Less**
 
 
-  
+<!-- Holopin Badge with Spacing -->
+## ✨✨Open-Source Achivement✨✨
+### 🔥🔥Hactoberfest🔥🔥
+<div style="margin-top: 200px;">
+  <a href="https://holopin.io/@ashishpatnaik">
+    <img src="https://holopin.me/ashishpatnaik" alt="An image of @ashishpatnaik's Holopin badges" width="900">
+  </a>
+</div>
+ 
 <!-- Connect With Me Section -->
 ### 📫 Connect with Me
 <p align="left">
