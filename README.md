@@ -29,7 +29,7 @@
   </a>
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Partying%20Face.webp" alt="Partying Face" width="30" height="30" />🔥 🔥GSSOC(24) Badges🔥🔥
+## 🔥🔥GSSOC(24) Badges🔥🔥
 
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
   <a href="https://gssoc.girlscript.tech/leaderboard?year=2024&username=priyanshuverma-dev">
@@ -98,7 +98,7 @@
  
 
 <!-- GitHub Stats Section -->
-### <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> GitHub Stats
+### <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> GitHub Stats<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Partying%20Face.webp" alt="Partying Face" width="30" height="30" />
 <p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashish-patnaik&show_icons=true&locale=en&layout=compact&theme=dark" alt="ashish-patnaik" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashish-patnaik&show_icons=true&locale=en&theme=dark" alt="ashish-patnaik" />
