@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=ashish-patnaik&label=Profile%20views&color=0e75b6&style=flat" alt="ashish-patnaik" />
 </p>
   <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif" width="40"> I'm Ashish Patnaik</h1>
-  <h3 align="center">A Passionate Software Developer from India</h3>
+  <h3 align="center">A Passionate Software Developer from India <img height="40" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h3>
 </div>
 
 <img align="right" src="https://github.com/user-attachments/assets/2d168576-bb66-4854-b139-6abe244b0f13" alt="Description of GIF" width="400" height="250">
@@ -134,3 +134,12 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
 </div>
+
+<!--line-->
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+ 
+<div align="center">
+    <h1>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Thanks+For+visiting;" alt="Typing SVG"/>
+    </h1>
