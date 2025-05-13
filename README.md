@@ -48,7 +48,7 @@
 ### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="32" height="32"> Connect with Me 
 <p align="left">
   <a href="https://twitter.com/ashishpatnaik_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashishpatnaik_" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/ashish-patnaik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashish patnaik" height="30" width="40" /></a>
+  <a href="www.linkedin.com/in/ashishpatnaik2806" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashish patnaik" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/ashish_patnaik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashish_patnaik" height="30" width="40" /></a>
 </p>
 
