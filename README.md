@@ -85,13 +85,11 @@
 
 <!--  Trophies -->
 <h3 align="left"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" alt="🔥" width="32" height="32"> My Stats</h3>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashish-patnaik&theme=onedark&row=1&column=6" alt="ashish-patnaik" /></a>
-</p>
 
 <!-- GitHub Stats Section -->
+### <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> GitHub Stats<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Partying%20Face.webp" alt="Partying Face" width="30" height="30" />
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashish-patnaik&show_icons=true&locale=en&layout=compact&theme=dark" alt="ashish-patnaik" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ashish-Patnaik&show_icons=true&locale=en&layout=compact&theme=dark" alt="ashish-patnaik" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashish-patnaik&show_icons=true&locale=en&theme=dark" alt="ashish-patnaik" />
 </p>
 
