@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=ashish-patnaik&label=Profile%20views&color=0e75b6&style=flat" alt="ashish-patnaik" />
 </p>
   <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif" width="40"> I'm Ashish Patnaik</h1>
-  <h3 align="center">A Passionate Software Developer from India <img height="40" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h3>
+  <h3 align="center">A Passionate Software Developer <img height="40" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h3>
 </div>
 
 <img align="right" src="https://github.com/user-attachments/assets/2d168576-bb66-4854-b139-6abe244b0f13" alt="Description of GIF" width="400" height="250">
@@ -13,9 +13,8 @@
 
 <!-- About Me Section -->
 ### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32"> About Me
-- 🌱 I’m currently learning **FullStack Development**.
+- 🌱 I’m currently learning **FullStack Development and Generative AI**.
 - 👯 I’m looking to collaborate on **Open Source Projects**.
-- 🤝 I’m looking for help with **Web Development**.
 - 📫 How to reach me: **ashishpatnaik2806@gmail.com**
 - ⚡ Fun fact: **I Talk Less**
 
